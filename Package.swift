@@ -11,7 +11,7 @@ let package = Package(
    ],
    targets: [
       .binaryTarget(
-         name: "Shared",
+         name: "ComposeApp",
          url: "https://github.com/jerryOkafor/kmp-spm-framework/archive/refs/tags/v0.0.1.zip",
          checksum:"6509e215b4438668029da40cbbd5b2a0bd3c3c00859104d6f5d511475e3a8a5e")
    ]
